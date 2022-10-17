@@ -14,6 +14,8 @@ The purpose of this project was to create a dynamic website using Javascript and
 * Platform:
   * Visual Studio Code
 
-## Analysis
+## Results
+
+
 
 ## Summary
