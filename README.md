@@ -18,7 +18,7 @@ The purpose of this project was to create a dynamic website using Javascript and
 
 Dana wanted her webpage to appear aesthetically pleasing with a background image of the view of Earth from space and an intro paragraph discussing the conversation around the existence of UFOs. A snapshot of the webpage is shown below:
 
-PICTURE
+![background.png](/Resources/background.png)
 
 The list of filters is on the left hand side of the page and the sightings are on the right side. The webpage is set up so that it will automatically update the sightings data once the filters are typed in, without the user having to do anything else. 
 
