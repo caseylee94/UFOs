@@ -35,4 +35,7 @@ It is case sensitive so searching for "CA" does not work, it would have to be fo
 
 ## Summary
 
+In conclusion, this project made progress in developing Dana's webpage to contain a better search function for users. The users are now able to search using five criteria: date, city, state, country, and shape. The main drawback of this webpage has already been discussed; that the input filters are not flexible and require input to be in the correct form or it will not be found in the data set. 
+
+For further development of this site, I recommend factoring in web scraping of more UFO sightings data to have an ever growing source of data instead of a fixed one. This will allow the site continuous growth and entice the user to keep coming back to discover new sightings. I also recommend factoring the filters to allow more flexibility in the inputs.
 
