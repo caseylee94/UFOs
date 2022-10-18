@@ -23,7 +23,14 @@ The user can decide to use one or all of the filters. The webpage will automatic
 
 ![one_filter.png](/resources/one_filter.png)
 
+The above example shows one filter (date) on the data set. Below shows a more specific search of three filters:
+
 ![correct_filter.png](/resources/correct_filter.png)
 
+Notice from these images the data is all formatted the same way. This is important, and the filters will only work for inputs in that specific form. This is a drawback in this webpage and could potentially be confusing for the user and cause errors. The image below shows an example:
+
+![caps_on.png](/resources/caps_on.png)
+
+It is case sensitive so searching for "CA" does not work, it would have to be formatted lower case like "ca".
 
 ## Summary
