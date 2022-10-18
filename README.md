@@ -19,8 +19,11 @@ The list of filters is on the left hand side of the page and the sightings are o
 
 ![filters1.png](/resources/filters1.png)
 
-The user can decide to use one or all of the filters. The webpage will automatically filter along as the user types in different inputs. The "filter table" button was taken out of the original webpage to allow for this quicker filtering by category. It will work with one or all of the filters.
+The user can decide to use one or all of the filters. The webpage will automatically filter along as the user types in different inputs. The "filter table" button was taken out of the original webpage to allow for this quicker filtering; it will work with one or all of the filters.
 
+![one_filter.png](/resources/one_filter.png)
+
+![correct_filter.png](/resources/correct_filter.png)
 
 
 ## Summary
