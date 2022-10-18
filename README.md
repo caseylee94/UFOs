@@ -6,21 +6,18 @@ The purpose of this project was to create a dynamic website using Javascript and
 
 ## Resources
 
-* Languages:
-  * Javascript
-  * Bootstrap
-  * CSS
-
-* Platform:
-  * Visual Studio Code
+* Software: Javascript, HTML, Bootstrap, CSS
+* Platform: Visual Studio Code
 
 ## Results
 
 Dana wanted her webpage to appear aesthetically pleasing with a background image of the view of Earth from space and an intro paragraph discussing the conversation around the existence of UFOs. A snapshot of the webpage is shown below:
 
-PICTURE
+![background.png](/resources/background.png)
 
-The list of filters is on the left hand side of the page and the sightings are on the right side. The webpage is set up so that it will automatically update the sightings data once the filters are typed in, without the user having to do anything else. 
+The list of filters is on the left hand side of the page and the sightings are on the right side. The webpage is set up so that it will automatically update the sightings data once the filters are typed in, without the user having to do anything else. The initial formatting of the data when the webpage is loaded without any filters displays all of the data and in the filter boxes are placeholders, basically examples of what could be typed into the filter. A screen capture of this is shown below:
+
+![filters1.png](/resources/filters1.png)
 
 
 ## Summary
