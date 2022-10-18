@@ -31,6 +31,8 @@ Notice from these images the data is all formatted the same way. This is importa
 
 ![caps_on.png](/resources/caps_on.png)
 
-It is case sensitive so searching for "CA" does not work, it would have to be formatted lower case like "ca".
+It is case sensitive so searching for "CA" does not work, it would have to be formatted lower case like "ca". Even though the filters are correctly inputted, the webpage will not be able to find these results. This should be listed as a note to the user so they understand how sensitive the input searches are.
 
 ## Summary
+
+
