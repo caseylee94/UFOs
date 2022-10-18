@@ -6,7 +6,7 @@ The purpose of this project was to create a dynamic website using Javascript and
 
 ## Resources
 
-* Languages: Javascript, Bootstrap, CSS
+* Software: Javascript, Bootstrap, CSS
 * Platform: Visual Studio Code
 
 ## Results
